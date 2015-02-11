@@ -1,5 +1,5 @@
 
-# Precomp layers with **leave all attributes** in AE quickly
+# Precomp layers with leave all attributes in AE quickly
 
 [![](http://ww1.sinaimg.cn/bmiddle/66e22e28jw1en5pnmd6uxg20c809x44f.gif)](http://weibo.com/songz)
 
